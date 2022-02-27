@@ -40,4 +40,4 @@ The player plays against the computer, which plays randomly, and the score betwe
 
 Copyright (C) 2022  David Neidhart
 
-The License, stated [here](https://github.com/Xander1233/Rock-Paper-Scissors-App/blob/master/LICENSE), applies to all source code inside this repository!
+The License, stated [here](https://github.com/Xander1233/Rock-Paper-Scissors-App/blob/master/LICENSE), applies to all source code, even if not directly stated inside each file, inside this repository!
