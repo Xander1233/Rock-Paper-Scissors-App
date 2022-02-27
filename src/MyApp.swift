@@ -2,9 +2,9 @@ import SwiftUI
 
 @main
 struct MyApp: App {
-
+    
     @ObservedObject var appSettings = SettingsModel.shared
-
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
