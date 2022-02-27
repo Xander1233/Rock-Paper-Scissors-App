@@ -6,29 +6,35 @@ The app also includes a history system, which provides the functionality to swit
 
 The player plays against the computer, which plays randomly, and the score between both is stored and loaded between sessions, so you do not loose your score if you close the app.
 
-# Reference
+# Preview
 
 *For the sake of simplicity, RPS is taken as an acronym for "Rock-Paper-Scissors"
 
 ## Normal RPS Tab
 
-[]()
+![Normal RPS Tab Preview](https://covecloud.app/files/s/f7ExeCK0RYlsrnhvhE_mC)
 
 ## Extended RPS Tab (Extended by "Lizard" & "Spock")
 
-[]()
+![Extended RPS Tab Preview](https://covecloud.app/files/s/ziTMSSrpexSQyiFaiENHY)
 
 ## Rules Tab
 
 ### Normal RPS rules
 
-[]()
+![Normal RPS Rule Preview](https://covecloud.app/files/s/jPz_lxl-18j5iLZtukKDI)
+
+*There may be a green shadow which is caused by the compression on GitHub's site*
 
 ### Extended RPS rules
 
-[]()
+![Extended RPS Rule Preview](https://covecloud.app/files/s/uoWi0K3qJofIMUV20arou)
+
+*There may be a green shadow which is caused by the compression on GitHub's site*
 
 ## Settings tab
+
+![Settings Tab Preview](https://covecloud.app/files/s/aowwdICJGdpjSTv8k15Xh)
 
 # License
 
